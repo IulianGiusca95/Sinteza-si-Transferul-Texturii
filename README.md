@@ -16,4 +16,8 @@ Am implementat trei metode de extindere a texturilor, aprofundate in articolul d
 
 # Fisiere si rezultate
 
+Enuntul intreg al proiectului: __tema3.pdf__
 
+Articolul stiintific: _Image Quilting for Texture Synthesis and Transfer_, autori Alexei A. Efros, William T. Freeman (__articolTextura.pdf__)
+
+Rezultatele obtinute sunt incluse in __tema3_rezultate.pdf__ si folder-ul __imagini__
